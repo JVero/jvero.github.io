@@ -1,0 +1,19 @@
+{
+	"title": "Experience",
+	"experience" : [
+				{
+		"timeperiod" : "2012-2014",
+		"company" : "Paul Robeson Cultural Center",
+		"description": "Tutored students in both a one on one environment and in a group setting at Piscataway High School, specializing in teaching Math and Sciences."
+		},
+		{"timeperiod" : "2017-2018",
+		 "company" : "Center for Advanced Infrastructure and Transportation",
+		 "description" : "Developed a synchronization protocol for an experiment that involved HTC Vive and SMI eye tracking software for characterizing behavior of children with ASD in naturalistic environments.  Used Go and LabStreamingLayer"
+		},
+		{
+		"timeperiod" : "2016-present",
+		"company" : "Sensory Motor Integration Lab",
+		"description" : "Developed Pipelines for data analysis using multimodal biosignal data, such as combined EEG and Motion Capture data.  Created data pipelines for terrabyte-scale data.  Ported developed Matlab code into containerized Python on AWS for shipping our analytics to a local AI startup.  Created real-time visualizations for purposes of feedback"
+		}
+	]
+}

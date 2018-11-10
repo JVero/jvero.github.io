@@ -1,0 +1,22 @@
+{
+	"title": "Publications",
+	"services": [
+	{
+		"icon" : "book",
+		"title": "Statistical Platform for Individualized Behavior Analyses Using Biophysical Micro-Movement Spikes",
+		"description" : "Elizabeth Torres, Joe Vero, and Richa Rai"
+	},
+	{
+		"icon" :"book-open" ,
+		"title" : "Characterization of Noise Signatures of Involuntary Head Motion in the Autism Brain Imaging Data Exchange Repository.",
+		"description" : "Carla Caballero et al."
+	},
+	{
+		"icon" :"brain",
+		"title": "Methods for Tracking Dynamically Coupled Brain-Body Activities during Natural Movement.",
+		"description": "Jihye Ryu, Joseph Vero, Elizabeth Torres"
+
+	}
+	]
+}
+

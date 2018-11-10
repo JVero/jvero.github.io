@@ -1,0 +1,12 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Python" : 80,
+		"Machine Learning" : 85,
+		"Golang" : 75,
+		"Signal Processing" : 80,
+		"Math" : 80,
+		"Docker" : 65,
+		"Linux" : 75
+	}
+}
